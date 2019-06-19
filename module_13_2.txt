@@ -1,0 +1,6 @@
+**Does a new supplement help people sleep better?**
+
+To test if a new supplement help people sleep better, participants will be randomly assigned to two groups. One of the groups will be given the supplement while the other group will be given a placebo, which serves as a control for psychological effects.
+
+The most difficult part of this study would be accurately measuring sleep quality and to so do several metrics should be taken into consideration such as, duration, efficiency (time in bed spent sleeping) and deep sleep (which is detected by phsyiological changes such as reduced blood pressure and relaxed muscles; can be measure using smart watch/ring...). However, all of these metrics vary between nights and between individuals. Therefore, the control group needs to be age matched and data collection should span a period long enough (e.g. a month).
+We expect the supplement to not affect sleep duration, increase sleep efficiency (a significant percentage of the time spend in bed will be spent sleeping) and increase deep sleep (for a higher proportion of sleeping time, the individual is in deep sleep stage).
